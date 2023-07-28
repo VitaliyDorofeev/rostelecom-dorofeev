@@ -1,0 +1,13 @@
+.subtitle {
+    line-height: 22px;
+    
+    /* Tablet */
+    @media (max-width:1199px) {
+        font-size: 16px;
+    }
+
+    /* Mobile XS */
+    @media (max-width:655px) {
+        font-size: 14px;
+    }
+}
